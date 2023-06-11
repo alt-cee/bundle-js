@@ -1,0 +1,1 @@
+A small project based on [this video](https://www.youtube.com/watch?v=5IG4UmULyoA) illustrating how webpack works (how source code gets bundled up to run in the browser). 
